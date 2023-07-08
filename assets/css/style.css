@@ -33,3 +33,9 @@ li {
     display: inline-block;
     margin-left: 25px;
 }
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: fill;
+}
