@@ -9,12 +9,15 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #173646;
     color: #173646;
+    
 }
 
 header h1 {
     display: inline-block;
     font-size: 50px;
     background-color: #64eef3;
+    border-width: px;
+    border-style: solid;
 }
 
 nav {
@@ -36,8 +39,9 @@ li {
     
 }
 
-img {
-    max-height: 100%;
-    max-width: 100%;
-    object-fit: fill;
+.image {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    
 }
