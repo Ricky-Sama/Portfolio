@@ -11,13 +11,14 @@ header {
     color: #173646;
     
 }
-
+/* Ricardo Scuotto */
 header h1 {
     display: inline-block;
     font-size: 50px;
     background-color: #64eef3;
-    border-width: px;
+    margin-left: -25px;
     border-style: solid;
+    padding-left: 50px;
 }
 
 nav {
