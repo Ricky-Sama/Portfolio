@@ -49,4 +49,11 @@ li {
 h2 {
     margin-bottom: 200px;
     padding-left: 150px;
+    
+}
+
+.about-me {
+    border-right-style: solid ;
+    border-right-width: 10px;
+    
 }
