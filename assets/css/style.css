@@ -66,11 +66,10 @@ h2 {
 
 .bottom-right {
     position: absolute;
-    bottom: 8px;
-    right: 16px;
-    font-size: 40px;
+    bottom: 20px;
+    right: 110px;
+    font-size: 35px;
     color: #173646;
     background-color: #64eef3;
-    
   }
   /* Reason will Prevail! end */
