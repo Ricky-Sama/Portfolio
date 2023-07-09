@@ -54,12 +54,13 @@ li {
 h2 {
     margin-bottom: 200px;
     padding-left: 150px;
+    width: 125px;
+    text-align: end;
     
 }
 
 .about-me {
-    border-right-style: solid ;
-    border-right-width: 10px;
+    text-align: end;
     
 }
 /* Reason will Prevail! text */
@@ -80,3 +81,12 @@ h2 {
     font-weight: bold;
   }
   /* Reason will Prevail! end */
+
+  .a-me {
+    border-right: 5px solid black;
+    margin-right: 88%;
+    height: 100px;
+    display: flex;
+    
+    
+  }
