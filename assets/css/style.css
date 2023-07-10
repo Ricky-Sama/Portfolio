@@ -56,7 +56,8 @@ h2 {
     padding-left: 150px;
     width: 125px;
     text-align: end;
-    
+    font-family: 'Trebuchet MS';
+    font-size: 30px;
 }
 
 .about-me {
@@ -84,7 +85,7 @@ h2 {
 
   .a-me {
     border-right: 5px solid black;
-    margin-right: 88%;
+    margin-right: 87%;
     height: 100px;
     display: flex;
     
