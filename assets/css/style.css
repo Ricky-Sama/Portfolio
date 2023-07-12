@@ -80,14 +80,31 @@ h2 {
     background-color: #64eef3;
     font-family: 'Trebuchet MS';
     font-weight: bold;
-  }
+}
   /* Reason will Prevail! end */
 
-  .a-me {
+.a-me {
     border-right: 5px solid black;
-    margin-right: 87%;
+    margin-right: 86%;
     height: 100px;
     display: flex;
+    padding-bottom: 20%;
+    padding-top: 3%;
     
+}
     
-  }
+.my-w {
+    border-right: 5px solid black;
+    margin-right: 86%;
+    height: 100px;
+    display: flex;
+    padding-bottom: 15%;
+}
+
+.c-me {
+    border-right: 5px solid black;
+    margin-right: 86%;
+    height: 100px;
+    display: flex;
+
+}
