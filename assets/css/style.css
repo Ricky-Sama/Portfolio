@@ -98,7 +98,7 @@ h2 {
     margin-right: 86%;
     height: 100px;
     display: flex;
-    padding-bottom: 15%;
+    padding-bottom: 5%;
 }
 
 .c-me {
@@ -107,4 +107,12 @@ h2 {
     height: 100px;
     display: flex;
 
+}
+
+p {
+    align-items: flex-end;
+    justify-content: center;
+    padding-left: 60%;
+    vertical-align: bottom;
+   
 }
